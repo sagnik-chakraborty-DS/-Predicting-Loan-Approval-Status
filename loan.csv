@@ -1,0 +1,25 @@
+id,loan_amnt,term,int_rate,installment,grade,emp_length,home_ownership,annual_inc,purpose,addr_state,inq_last_6mths,revol_util,total_pymnt,last_pymnt_d,last_pymnt_amnt,loan_status
+1077501,5000, 36 months,10.65,162.87,B,10+ years,RENT,24000,credit_card,AZ,1,83.7,5861.071414,Jan-15,171.62,0
+1077430,2500, 60 months,15.27,59.83,C,< 1 year,RENT,30000,car,GA,5,9.4,1008.71,Apr-13,119.66,1
+1077175,2400, 36 months,15.96,84.33,C,10+ years,RENT,12252,small_business,IL,2,98.5,3003.653644,Jun-14,649.91,0
+1076863,10000, 36 months,13.49,339.31,C,10+ years,RENT,49200,other,CA,1,21,12226.30221,Jan-15,357.48,0
+1075358,3000, 60 months,12.69,67.79,B,1 year,RENT,80000,other,OR,0,53.9,3242.17,Jan-16,67.79,1
+1075269,5000, 36 months,7.9,156.46,A,3 years,RENT,36000,wedding,AZ,3,28.3,5631.377753,Jan-15,161.03,0
+1069639,7000, 60 months,15.96,170.08,C,8 years,RENT,47004,debt_consolidation,NC,1,85.6,8136.84,Jan-16,170.08,1
+1072053,3000, 36 months,18.64,109.43,E,9 years,RENT,48000,car,CA,2,87.5,3938.144334,Jan-15,111.34,0
+1071795,5600, 60 months,21.28,152.39,F,4 years,OWN,40000,small_business,CA,2,32.6,646.02,Apr-12,152.39,1
+1071570,5375, 60 months,12.69,121.45,B,< 1 year,RENT,15000,other,TX,0,36.5,1476.19,Nov-12,121.45,1
+1070078,6500, 60 months,14.65,153.45,C,5 years,OWN,72000,debt_consolidation,AZ,2,20.6,7677.52,Jun-13,1655.54,0
+1069908,12000, 36 months,12.69,402.54,B,10+ years,OWN,75000,debt_consolidation,CA,0,67.1,13943.08,Sep-13,6315.3,0
+1064687,9000, 36 months,13.49,305.38,C,< 1 year,RENT,30000,debt_consolidation,VA,1,91.7,2270.7,Jul-12,305.38,1
+1069866,3000, 36 months,9.91,96.68,B,3 years,RENT,15000,credit_card,IL,2,43.1,3478.981915,Jan-15,102.43,0
+1069057,10000, 36 months,10.65,325.74,B,3 years,RENT,100000,other,CA,2,55.5,7471.99,Oct-13,325.74,1
+1069759,1000, 36 months,16.29,35.31,D,< 1 year,RENT,28000,debt_consolidation,MO,1,81.5,1270.171106,Jan-15,36.32,0
+1065775,10000, 36 months,15.27,347.98,C,4 years,RENT,42000,home_improvement,CA,2,70.2,12519.26045,Jan-15,370.46,0
+1069971,3600, 36 months,6.03,109.57,A,10+ years,MORTGAGE,110000,major_purchase,CT,0,16,3785.02,May-13,583.45,0
+1062474,6000, 36 months,11.71,198.46,B,1 year,MORTGAGE,84000,medical,UT,0,37.73,7164.499852,Feb-15,16.98,0
+1069742,9200, 36 months,6.03,280.01,A,6 years,RENT,77385.19,debt_consolidation,CA,0,23.1,9459.96,Jul-12,8061.1,0
+1069740,20250, 60 months,15.27,484.63,C,3 years,RENT,43370,debt_consolidation,TX,3,85.6,27663.04267,Aug-15,6024.09,0
+1039153,21000, 36 months,12.42,701.73,B,10+ years,RENT,105000,debt_consolidation,FL,0,90.3,14025.4,Sep-13,701.73,1
+1069710,10000, 36 months,11.71,330.76,B,10+ years,OWN,50000,credit_card,TX,0,82.4,11902.56157,Jan-15,349.21,0
+1069700,10000, 36 months,11.71,330.76,B,5 years,RENT,50000,debt_consolidation,CA,0,91.8,11536.31,Oct-13,4942.63,0
